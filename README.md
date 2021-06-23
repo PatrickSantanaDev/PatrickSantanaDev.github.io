@@ -2,4 +2,4 @@
 
 Stay tuned for further updates!
 
-This page is hosted at [PatrickSantanaDev.github.io](PatrickSantanaDev.github.io)
+This page is hosted at [PatrickSantanaDev.github.io](patricksantanadev.github.io)
